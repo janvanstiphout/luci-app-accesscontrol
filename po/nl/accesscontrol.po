@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2025-08-17 01:28+0100\n"
+"Last-Translator: Jan van Stiphout <jan.stiphout@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:36
+msgid "Control access to WiFi"
+msgstr "Beheer toegang tot WiFi"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:41
+msgid "Name"
+msgstr "Naam"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:42
+msgid "MAC"
+msgstr "MAC"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:59
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:69
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:115
+msgid "Add"
+msgstr "Toevoegen"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:134
+msgid "Are you sure you want to remove this client?"
+msgstr "Weet je zeker dat je deze client wilt verwijderen?"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:155
+msgid "No name given"
+msgstr "Geen naam gegeven"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:160
+msgid "No MAC address given"
+msgstr "Geen MAC adres gegeven"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:165
+msgid "Invalid MAC address"
+msgstr "Ongeldig MAC adres"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:172
+msgid "Client already exists"
+msgstr "Client bestaat al"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:209
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:263
+msgid "error"
+msgstr "fout"
+
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:219
+#: applications/luci-app-accesscontrol/htdocs/luci-static/resources/view/accesscontrol.js:271
+msgid "done"
+msgstr "klaar"
+
+#: applications/luci-app-accesscontrol/root/usr/share/rpcd/acl.d/luci-app-accesscontrol.json:3
+msgid "Grant access to luci-app-accesscontrol"
+msgstr "Geef toegang voor luci-app-accesscontrol"
+
+#: applications/luci-app-accesscontrol/root/usr/share/luci/menu.d/luci-app-accesscontrol.json:3
+msgid "Manage access"
+msgstr "Beheer toegang"

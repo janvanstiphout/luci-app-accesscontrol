@@ -1,0 +1,13 @@
+{
+  "admin/accesscontrol": {
+    "title": "Manage access",
+    "order": 60,
+    "action": {
+      "type": "view",
+      "path": "accesscontrol"
+    },
+    "depends": {
+      "acl": ["luci-app-accesscontrol"]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"luci-app-accesscontrol": {
+		"description": "Grant access to luci-app-accesscontrol",
+		"read": {
+			"uci": [
+				"accesscontrol"
+			]
+		},
+		"write": {
+			"uci": [
+				"accesscontrol"
+			]
+		}
+	}
+}
